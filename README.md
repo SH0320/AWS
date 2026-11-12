@@ -7,3 +7,5 @@
 <img width="1917" height="967" alt="image" src="https://github.com/user-attachments/assets/970b1ef6-c30e-4f69-8a0f-7f60e4300e78" />
 <img width="1624" height="877" alt="image" src="https://github.com/user-attachments/assets/4732881b-c639-4d57-8b27-904a3e76d7c2" />
 <img width="1541" height="943" alt="image" src="https://github.com/user-attachments/assets/18766ddb-3f18-465c-9e8d-1caf25def377" />
+<img width="1917" height="931" alt="加分題" src="https://github.com/user-attachments/assets/b7105a8b-adf0-4b82-994d-fc4dac322c76" />
+<img width="1913" height="865" alt="image" src="https://github.com/user-attachments/assets/04271cb8-6a73-41aa-9507-662003ebf104" />
